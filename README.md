@@ -37,3 +37,21 @@ This repository preserves the original Java source, application screenshots and 
 ## License
 
 [GNU General Public License v3.0](LICENSE).
+
+<details>
+<summary>Full project notes</summary>
+
+<!-- preserved-project-notes:start -->
+# earoid-app
+ear-training app for android
+
+https://play.google.com/store/apps/details?id=com.sempre.earoidm
+
+
+<img src="./pics/earoid1.jpg" width="600"/>
+<img src="./pics/earoid2.jpg" width="600"/>
+<img src="./pics/earoid3.jpg" width="600"/>
+
+<!-- preserved-project-notes:end -->
+
+</details>
